@@ -4,7 +4,7 @@ An intelligent Retrieval-Augmented Generation (RAG) system powered by LangChain,
 
 ## Overview
 
-SmartRAG is an agentic RAG system designed to provide accurate and well-structured responses by retrieving relevant information from a knowledge base. The system analyzes query intent, searches a vector database for the most relevant documents, and retrieves multiple sources to ensure diverse perspectives.
+SmartRAG is an RAG system designed to provide accurate and well-structured responses by retrieving relevant information from a knowledge base. The system analyzes query intent, searches a vector database for the most relevant documents, and retrieves multiple sources to ensure diverse perspectives.
 
 ![screencapture-localhost-8501-2025-03-08-13_26_31](https://github.com/user-attachments/assets/b6eaa122-cdae-4161-8d3b-bbfb3c778a7f)
 
@@ -30,7 +30,7 @@ SmartRAG is an agentic RAG system designed to provide accurate and well-structur
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Notmeher/SmartRAG-Memory-Based-Agentic-RAG-System-with-document-ingestion.git
+   git clone https://github.com/Notmeher/SmartRAG-Memory-Based-RAG-System-with-document-ingestion.git
    
    ```
 

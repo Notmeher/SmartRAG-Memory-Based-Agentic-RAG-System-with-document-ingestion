@@ -30,7 +30,7 @@ SmartRAG is an agentic RAG system designed to provide accurate and well-structur
 
 1. Clone this repository:
    ```bash
-   [git clone https://github.com/username/smartrag.git](https://github.com/Notmeher/SmartRAG-Memory-Based-Agentic-RAG-System-with-document-ingestion.git)
+   [git clone https://github.com/Notmeher/SmartRAG-Memory-Based-Agentic-RAG-System-with-document-ingestion.git]
    
    ```
 
